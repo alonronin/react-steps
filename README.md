@@ -22,7 +22,7 @@ npm i @tkwant/react-steps
 
 ## Usage
 
-```
+```js
 import React, { useState } from "react";
 import { Stepper, Step } from "./Stepper/Stepper";
 interface Props {}
